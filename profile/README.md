@@ -6,11 +6,11 @@ Somos a Squad Dorothy Vaughan, um dos grupos da Turma 10 do [Bootcamp Data Analy
 
 # Quem foi Dorothy Vaughan?
 
+![dorothy-vaughan-perfil](dorothy-perfil.jpg)
+
 Nossa patrona, Dorothy Vaughan (1910–2008) foi uma matemática, professora e cientista norte-americana que trabalhou no antigo Comitê Consultivo Nacional para Aeronáutica (NACA), que mais tarde se tornou a NASA. Ela nasceu em Kansas City e destacou-se em uma época marcada pela segregação racial e desigualdade de gênero nos Estados Unidos.  
 
 Durante sua carreira, Dorothy trabalhou com cálculos matemáticos essenciais para pesquisas aeronáuticas e missões espaciais. Posteriormente, tornou-se especialista em programação, aprendendo linguagens como FORTRAN para acompanhar a chegada dos computadores.  
-
-![dorothy-vaughan-perfil](dorothy-perfil.jpg)
 
 ## Principais conquistas:
 * Primeira supervisora negra da NACA/NASA: tornou-se líder da equipe conhecida como West Area Computers, formada por mulheres negras responsáveis por cálculos matemáticos avançados.
@@ -25,7 +25,7 @@ Durante sua carreira, Dorothy trabalhou com cálculos matemáticos essenciais pa
 
 --- 
 
-### Filme - Estrelas além do tempo:
+## Filme - Estrelas além do tempo:
 ![Cartaz do filme](cartaz-filme.png)
 
 Sua história ganhou maior reconhecimento com o livro e o filme Hidden Figures (Estrelas Além do Tempo), que mostra a trajetória das cientistas negras Dorothy Vaughan, Katherine Johnson e Mary Jackson na NASA durante a guerra fria.
