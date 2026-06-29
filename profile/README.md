@@ -40,7 +40,7 @@ Da esquerda para a direita: Katherine Johnson, Mary Jackson e Dorothy Vaughan.
 
 ---
 
-# <img src="https://www.womakerscode.org/favicon.ico" width="30" alt="WoMakersCode"/> [Sobre a WoMakersCode](https://www.womakerscode.org/)
+# <img src="https://www.womakerscode.org/favicon.ico" width="30" alt="WoMakersCode"/> Sobre a WoMakersCode
 
 A WoMakersCode foi fundada em 2015 com o propósito de ampliar
 o acesso de mulheres à tecnologia e apoiar o desenvolvimento de suas carreiras na área.
@@ -54,10 +54,14 @@ de inclusão produtiva de mulheres na tecnologia, ampliando sua atuação em for
 Hoje, a organização conecta mulheres em diferentes países e fortalece
 um ecossistema que impulsiona carreiras e amplia oportunidades no mercado de tecnologia.
 
-# [O Bootcamp Data Analytics](https://www.womakerscode.org/data-analytics):
+[Acesse o site da Womakers](https://www.womakerscode.org/)
+
+# O Bootcamp Data Analytics:
 O Bootcamp é dedicado a mulheres cis e trans, onde, em uma jornada de 6 meses as alunas tem acesso a aulas ao vivo e ao conteúdo gravado com as habilidades técnicas e habilidades pessoais:
 * Habilidades Técnicas: Python para análise de dados, estatística aplicada, modelos regressivos, visualização de dados, Business Intelligence, storytelling, Git/GitHub, bancos de dados e computação em nuvem.
 * Habilidades Pessoais: Planejamento e estratégia de carreira, trabalhos individuais e em squads, empregabilidade, preparação para processos seletivos, cultura de inovação, empatia, cooperação e desenvolvimento de power skills.
+
+[Saiba mais do Bootcamp](https://www.womakerscode.org/data-analytics)
 
 ---
 
