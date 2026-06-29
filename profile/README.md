@@ -40,7 +40,7 @@ Da esquerda para a direita: Katherine Johnson, Mary Jackson e Dorothy Vaughan.
 
 ---
 
-# <img src="https://www.womakerscode.org/favicon.ico" width="45" alt="WoMakersCode"/> [Sobre a WoMakersCode](https://www.womakerscode.org/)
+# <img src="https://www.womakerscode.org/favicon.ico" width="30" alt="WoMakersCode"/> [Sobre a WoMakersCode](https://www.womakerscode.org/)
 
 A WoMakersCode foi fundada em 2015 com o propósito de ampliar
 o acesso de mulheres à tecnologia e apoiar o desenvolvimento de suas carreiras na área.
